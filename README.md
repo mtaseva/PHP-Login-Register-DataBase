@@ -34,5 +34,5 @@ A simple user authentication system built with PHP and MySQL. It allows users to
 
 ## 👤 Author
 
-This project was created for educational purposes.
+This project was created for educational purposes by Marija Taseva.
 
